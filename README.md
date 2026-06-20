@@ -1,0 +1,1 @@
+My React learning journey following SuperSimpleDev's React Full Course. Features hands-on projects, exercises, notes, and implementations covering React fundamentals, hooks, routing, API integration, testing, TypeScript, React 19, and deployment.
